@@ -1,0 +1,6 @@
+#1, kleiner Weihnachtsmann
+https://raw.githubusercontent.com/EliasTX09/BMP/refs/heads/main/bilder/1.bmp;
+#2, großer Weihnachtsmann
+https://raw.githubusercontent.com/EliasTX09/BMP/refs/heads/main/bilder/2.bmp;
+#3, Renntier
+https://raw.githubusercontent.com/EliasTX09/BMP/refs/heads/main/bilder/3.bmp;
